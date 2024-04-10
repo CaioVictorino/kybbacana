@@ -1,5 +1,5 @@
 <?php
-namespace Tools;
+namespace tools;
 use PDO;
 
 class queryBuilder{

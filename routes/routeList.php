@@ -1,9 +1,9 @@
 <?php
 
-namespace Routes;
+namespace routes;
 
 /* CONTROLLERS LIST */
-use Controllers\homeController;
+use controllers\homeController;
 
 
 

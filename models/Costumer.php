@@ -1,9 +1,9 @@
 <?php
 
-namespace Models;
+namespace models;
 
 use PDOException;
-use Tools\databaseTool;
+use tools\databaseTool;
 
 class Costumer{
     public function save($data = []) : bool

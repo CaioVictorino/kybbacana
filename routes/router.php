@@ -1,8 +1,8 @@
 <?php 
 
-namespace Routes;
+namespace routes;
 
-use Routes\routeList;
+use routes\RouteList;
      
 
      class Router{
