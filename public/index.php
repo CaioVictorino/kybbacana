@@ -3,7 +3,7 @@
 require_once "../autoload.php";
 require_once "../config.php";
 
-use routes\Router;
+use Routes\Router;
 
 $uri = $_SERVER['REQUEST_URI'];
 $request = new Router();

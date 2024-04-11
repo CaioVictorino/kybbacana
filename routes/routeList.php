@@ -1,13 +1,13 @@
 <?php
 
-namespace routes;
+namespace Routes;
 
 /* CONTROLLERS LIST */
 use controllers\homeController;
 
 
 
-class routeList{
+class RouteList{
 
      public function pathFinder($uri)
      {
