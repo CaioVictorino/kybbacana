@@ -1,5 +1,5 @@
 <?php
 
 spl_autoload_register(function ($class) {
-    include lcfirst($class . '.php');
+    include __DIR__ . "\\" . $class . '.php';
 });
